@@ -8,6 +8,76 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+
+        System.out.println("hello");
+
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+
         return "Hello, World!这是main主分支内容";
     }
 }
